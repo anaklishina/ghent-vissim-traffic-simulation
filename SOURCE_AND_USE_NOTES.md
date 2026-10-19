@@ -7,7 +7,7 @@ This repository is an independent **non-commercial portfolio case study**. It is
 - **AWV traffic counts**: observations dated 9 February 2023, used to set turning movements and for approximate field-queue comparisons. Original source spreadsheets are not redistributed here pending confirmation of redistribution rights.
 - **AWV signal plan**: V010049 v17 used to reconstruct the reference fixed-time K1 programme. Original source plan PDF is not redistributed here pending confirmation of redistribution rights.
 - **PTV Vissim**: model files and simulation output created using the PTV Vissim Student Version. Vissim is proprietary software. Users must obtain any necessary software license themselves.
-- **Image underlays and aerial imagery**: not supplied as independent assets. The technical report includes image-specific credits. Before public publication, verify that the Google Maps aerial screenshot on the cover retains the exact required Google and any third-party provider attribution, according to Google's Geo Guidelines.
+- **Image underlays and aerial imagery**: not supplied as independent assets. The technical report credits the cover aerial image to Google Maps (imagery © Google) and separately attributes the Vissim basemap. The cover attribution has not been independently checked against the original image for any additional imagery-provider credits. Applicable imagery-provider terms and attribution requirements continue to apply; publication here does not grant permission to reuse the images.
 
 ## Study-specific caveats
 
